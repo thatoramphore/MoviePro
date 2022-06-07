@@ -9,7 +9,7 @@ namespace MoviePro.Models.Settings
     {
         public string TmDbApiKey { get; set; }
         public string DefaultBackdropSize { get; set; }
-        public string DefaultPOsterSize { get; set; }
+        public string DefaultPosterSize { get; set; }
         public string DefaultYouTubeKey { get; set; }
         public string DefaultCastImage { get; set; }
         public DefaultCollection DefaultCollection { get; set; }
